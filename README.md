@@ -1,112 +1,107 @@
 <!-- HEADER & INTRODUCTION -->
-<h1 align="center">
-  Hi, I'm Husnain Babar! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" alt="Hi there!"/>
-</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3>
-
-<p align="center">
-  I specialize in **Full Stack Development** and **AI-based solutions**, working with **React, Next.js, and the MERN stack**. 
-  I'm passionate about **Machine Learning, Automation, and Scalable Systems**.
-</p>
-
-<div align="center">
-  <a href="mailto:husnain.babar.dev@gmail.com"><strong>📧 Contact Me</strong></a> •
-  <a href="https://www.linkedin.com/in/husnain-babar-45b581253" target="_blank"><strong>💼 LinkedIn</strong></a> •
-  <a href="https://github.com/Husnain555" target="_blank"><strong>🐙 GitHub</strong></a>
-  <br />
-  <sub>📍 Based in Pakistan</sub>
-</div>
+<table>
+  <tr>
+    <td width="60%" align="center">
+      <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=BB86FC&center=true&vCenter=true&width=600&lines=Hello,+I'm+Husnain+Babar!+🚀;Full-Stack+Developer+|+AI+Enthusiast+🤖;Problem+Solver+|+Tech+Explorer+💻" />
+      </h1>
+      <hr>
+      <p align="center">
+        I am a Full-Stack Developer with deep expertise in frontend and backend development, specializing in building scalable, high-performance applications. My technical proficiency includes React, Next.js, Vue.js, and the MERN stack. I am passionate about AI, automation, and cloud-based architectures, continuously leveraging cutting-edge technologies to drive innovation and efficiency.
+      </p>
+      <p align="center">
+        <a href="mailto:husnain.babar.dev@gmail.com">
+          <img src="https://img.shields.io/badge/📧%20Contact_Me-blue?style=for-the-badge" />
+        </a>
+        <a href="https://www.linkedin.com/in/husnain-babar-45b581253" target="_blank">
+          <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="https://github.com/Husnain555" target="_blank">
+          <img src="https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <sub>📍 Based in Pakistan</sub>
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;" alt="Coding GIF"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💻 Tech Stack & Skills
+## 🛠️ Full-Stack Tech Stack & Skills  
 
-### 🚀 Programming & Markup Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### 🌟 Frameworks & Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
-
-### 🏗️ Backend & Database
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,redux,nestjs,nodejs,express,mongodb,mysql,postgres,graphql,kubernetes,aws,docker,git,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity  
 
 <div align="center">
 
-  <!-- GitHub Stats & Streak in One Row -->
   <table>
     <tr>
       <td width="50%">
-        <a href="https://github.com/Husnain555">
-          <img src="https://github-readme-stats.vercel.app/api?username=Husnain555&show_icons=true&count_private=true&bg_color=6A0DAD&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="GitHub Stats" width="100%"/>
-        </a>
+        <img src="https://github-readme-stats.vercel.app/api?username=Husnain555&show_icons=true&count_private=true&bg_color=6A0DAD&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="GitHub Stats" width="100%"/>
       </td>
       <td width="50%">
-        <a href="https://github.com/Husnain555">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Husnain555&theme=highcontrast&hide_border=true&border_radius=10" alt="GitHub Streak" width="100%"/>
-        </a>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Husnain555&theme=highcontrast&hide_border=true&border_radius=10" alt="GitHub Streak" width="100%"/>
       </td>
     </tr>
   </table>
 
   <br />
 
-  <!-- Real-Time Repository Activity Graph -->
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Husnain555&bg_color=1a1b27&color=ffffff&line=6A0DAD&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" width="90%"/>
-  </p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Husnain555&bg_color=1a1b27&color=ffffff&line=6A0DAD&point=FFFFFF&hide_border=true" alt="GitHub Contribution Graph" width="90%"/>
 
 </div>
 
 ---
 
-## 📖 What I'm Learning
+## 📖 What I'm Currently Learning  
 
-- **🧠 Advanced AI & Machine Learning** - NLP, Computer Vision  
-- **☁️ Cloud & DevOps** - AWS, Docker, Kubernetes  
-- **🔌 API Development** - GraphQL, Microservices, WebSockets  
+🚀 **Advanced AI & Machine Learning**  
+   - 🧠 Natural Language Processing (NLP)  
+   - 📸 Computer Vision  
+
+☁️ **Cloud & DevOps**  
+   - ☁️ AWS, Docker, Kubernetes  
+   - ⚡ CI/CD Pipelines & Serverless  
+
+🔌 **API Development & Microservices**  
+   - 🔗 GraphQL & REST APIs  
+   - 🔄 WebSockets & Event-Driven Architecture  
+
+🛡 **Cybersecurity & Performance Optimization**  
+   - 🔐 Securing APIs & Web Apps  
+   - ⚡ Performance Tuning & Scaling Strategies  
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect with Me  
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/husnain-babar-45b581253" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Husnain555" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:husnain.babar.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
+</div>
 
 ---
 
-## 🤫 Fun Fact
+## 🤖 Fun Fact  
 
 <p align="center">
-  I automate my daily tasks using AI-powered bots 🤖
+  I automate my daily tasks using AI-powered bots 🤖  
+  I also love contributing to **open-source projects**!  
 </p>
