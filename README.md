@@ -19,6 +19,37 @@
 
 ---
 
+## 💻 Tech Stack & Skills
+
+### 🚀 Programming & Markup Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 🌟 Frameworks & Libraries
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
+
+### 🏗️ Backend & Database
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
@@ -41,20 +72,12 @@
 
   <br />
 
-  <!-- Most Used Languages in Next Row -->
-  <a href="https://github.com/Husnain555">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husnain555&layout=compact&bg_color=6A0DAD&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="Most Used Languages" width="60%"/>
-  </a>
+  <!-- Real-Time Repository Activity Graph -->
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Husnain555&bg_color=1a1b27&color=ffffff&line=6A0DAD&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" width="90%"/>
+  </p>
 
 </div>
-
----
-
-## 🏆 Real-Time Repository Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Husnain555&bg_color=1a1b27&color=ffffff&line=6A0DAD&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
 
 ---
 
