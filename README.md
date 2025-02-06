@@ -3,7 +3,7 @@
   <tr>
     <td width="60%" align="center">
       <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=BB86FC&center=true&vCenter=true&width=600&lines=Hello,+I'm+Husnain+Babar!+🚀;Full-Stack+Developer+|+AI+Enthusiast+🤖;Problem+Solver+|+Tech+Explorer+💻" />
+        <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=BB86FC&center=true&vCenter=true&width=600&lines=Hello,+I'm+Husnain+Babar!+🚀;Full-Stack+Dev+|+AI+Enthusiast+🤖;Problem+Solver+|+Tech+Explorer+💻" />
       </h1>
       <hr>
       <p align="center">
