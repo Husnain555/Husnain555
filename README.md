@@ -2,10 +2,11 @@
 <h1 align="center">
   Hi, I'm Husnain Babar! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" alt="Hi there!"/>
 </h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  I build scalable web applications and robust backend systems using <strong>React, Next.js, and the MERN stack</strong>. My passion for <strong>AI, Machine Learning, and Automation</strong> drives me to solve challenging problems and create innovative solutions.
+  I specialize in **Full Stack Development** and **AI-based solutions**, working with **React, Next.js, and the MERN stack**. 
+  I'm passionate about **Machine Learning, Automation, and Scalable Systems**.
 </p>
 
 <div align="center">
@@ -18,7 +19,16 @@
 
 ---
 
-<!-- TECH STACK & SKILLS -->
+## 🏆 About Me
+
+- 🔭 **Currently working on:** AI-based automation & Full Stack Web Development  
+- 🌱 **Learning:** Deep Learning, Microservices, & Cloud Computing  
+- 🤝 **Looking to collaborate on:** AI/ML projects & Large-Scale Web Apps  
+- 🎯 **Goals for 2025:** Contribute to **Open Source**, build **AI-powered tools**, and grow my **developer community**  
+- ⚡ **Fun Fact:** I automate my daily tasks using AI-powered bots 🤖  
+
+---
+
 ## 💻 Tech Stack & Skills
 
 ### 🚀 Programming & Markup Languages
@@ -49,7 +59,6 @@
 
 ---
 
-<!-- GITHUB STATS & ACTIVITY -->
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
@@ -81,13 +90,27 @@
 
 ---
 
-<!-- GITHUB CONTRIBUTION GRAPH -->
 ## 🏆 Contribution Graph
 ![GitHub Contribution Graph](https://github.com/Husnain555/Husnain555/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-<!-- SOCIAL LINKS -->
+## 🏗️ Projects & Contributions
+
+- 🔹 **[Project 1](#)** – AI-powered automation tool  
+- 🔹 **[Project 2](#)** – Scalable full-stack web application  
+- 🔹 **[Project 3](#)** – Open-source contributions in Machine Learning  
+
+---
+
+## 📖 What I'm Learning
+
+- **🧠 Advanced AI & Machine Learning** - NLP, Computer Vision  
+- **☁️ Cloud & DevOps** - AWS, Docker, Kubernetes  
+- **🔌 API Development** - GraphQL, Microservices, WebSockets  
+
+---
+
 ## 🔗 Connect with Me
 
 <p align="center">
@@ -104,9 +127,8 @@
 
 ---
 
-<!-- FUN SECTION -->
-## 🤫 A Little Secret
+## 🤫 Fun Fact
 
 <p align="center">
-  Psst... I'm secretly Spiderman 🕸️🕷️ (but don't tell anyone!)
+  I automate my daily tasks using AI-powered bots 🤖
 </p>
