@@ -54,23 +54,28 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <a href="https://github.com/Husnain555">
-    <img src="https://github-readme-stats.vercel.app/api?username=Husnain555&show_icons=true&count_private=true&bg_color=6A0DAD&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <br /><br />
+  <!-- Stats and Streak in One Row -->
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Husnain555">
+          <img src="https://github-readme-stats.vercel.app/api?username=Husnain555&show_icons=true&count_private=true&bg_color=6A0DAD&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="GitHub Stats" width="450px"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Husnain555">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Husnain555&theme=highcontrast&hide_border=true&border_radius=10" alt="GitHub Streak" width="400px"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 
-  <!-- GitHub Streak -->
-  <a href="https://github.com/Husnain555">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Husnain555&theme=highcontrast&hide_border=true&border_radius=10" alt="GitHub Streak" />
-  </a>
-  <br /><br />
+  <br />
 
-  <!-- Most Used Languages -->
+  <!-- Most Used Languages in Next Row -->
   <a href="https://github.com/Husnain555">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husnain555&layout=compact&bg_color=6A0DAD&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husnain555&layout=compact&bg_color=6A0DAD&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="Most Used Languages" width="450px"/>
   </a>
-  <br /><br />
 
 </div>
 
