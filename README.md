@@ -32,7 +32,7 @@
 ## 💻 Tech Stack & Skills
 
 ### 🚀 Programming & Markup Languages
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -41,7 +41,7 @@
 </p>
 
 ### 🌟 Frameworks & Libraries
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
@@ -49,7 +49,7 @@
 </p>
 
 ### 🏗️ Backend & Database
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -63,17 +63,17 @@
 
 <div align="center">
 
-  <!-- Stats and Streak in One Row -->
+  <!-- GitHub Stats & Streak in One Row -->
   <table>
     <tr>
-      <td>
+      <td width="50%">
         <a href="https://github.com/Husnain555">
-          <img src="https://github-readme-stats.vercel.app/api?username=Husnain555&show_icons=true&count_private=true&bg_color=6A0DAD&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="GitHub Stats" width="450px"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=Husnain555&show_icons=true&count_private=true&bg_color=6A0DAD&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="GitHub Stats" width="100%"/>
         </a>
       </td>
-      <td>
+      <td width="50%">
         <a href="https://github.com/Husnain555">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Husnain555&theme=highcontrast&hide_border=true&border_radius=10" alt="GitHub Streak" width="400px"/>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Husnain555&theme=highcontrast&hide_border=true&border_radius=10" alt="GitHub Streak" width="100%"/>
         </a>
       </td>
     </tr>
@@ -83,7 +83,7 @@
 
   <!-- Most Used Languages in Next Row -->
   <a href="https://github.com/Husnain555">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husnain555&layout=compact&bg_color=6A0DAD&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="Most Used Languages" width="450px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husnain555&layout=compact&bg_color=6A0DAD&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="Most Used Languages" width="60%"/>
   </a>
 
 </div>
