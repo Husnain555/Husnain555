@@ -1,11 +1,11 @@
 <!-- HEADER & INTRODUCTION -->
 <h1 align="center">
-  Hi, I'm Husnain Babar! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40"/>
+  Hi, I'm Husnain Babar! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" alt="Hi there!"/>
 </h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  Welcome to my GitHub profile! I build scalable web applications and robust backend systems using <strong>React, Next.js, and the MERN stack</strong>. My passion for <strong>AI, Machine Learning, and Automation</strong> drives me to solve challenging problems and create innovative solutions.
+  I build scalable web applications and robust backend systems using <strong>React, Next.js, and the MERN stack</strong>. My passion for <strong>AI, Machine Learning, and Automation</strong> drives me to solve challenging problems and create innovative solutions.
 </p>
 
 <div align="center">
@@ -21,7 +21,7 @@
 <!-- TECH STACK & SKILLS -->
 ## 💻 Tech Stack & Skills
 
-I enjoy working with a wide range of technologies. Here’s a snapshot of my skills:
+I work with a wide range of technologies. Here’s a snapshot of my skills:
 
 <p align="left">
   <!-- Programming Languages & Tools -->
@@ -59,16 +59,16 @@ I enjoy working with a wide range of technologies. Here’s a snapshot of my ski
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
   </a>
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxt.js" />
   </a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="jQuery" />
   </a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
@@ -77,7 +77,7 @@ I enjoy working with a wide range of technologies. Here’s a snapshot of my ski
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" />
   </a>
   <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" />
@@ -104,13 +104,13 @@ I enjoy working with a wide range of technologies. Here’s a snapshot of my ski
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/remix-colored.svg" width="36" height="36" alt="Remix" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" />
   </a>
   <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
@@ -152,7 +152,7 @@ I enjoy working with a wide range of technologies. Here’s a snapshot of my ski
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" />
   </a>
   <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3.js" />
   </a>
   <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" />
@@ -194,22 +194,22 @@ I enjoy working with a wide range of technologies. Here’s a snapshot of my ski
 <div align="center">
   <!-- GitHub Stats Card -->
   <a href="https://github.com/Husnain555">
-    <img src="https://github-readme-stats.vercel.app/api?username=Husnain555&show_icons=true&theme=tokyonight&count_private=true" alt="Husnain's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Husnain555&show_icons=true&count_private=true&bg_color=6A0DAD&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="Husnain's GitHub Stats" />
   </a>
   <br /><br />
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/Husnain555">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Husnain555&theme=tokyonight" alt="Husnain's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Husnain555&theme=dark&bg_color=6A0DAD&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff" alt="Husnain's GitHub Streak" />
   </a>
   <br /><br />
   <!-- Top Languages Card -->
   <a href="https://github.com/Husnain555">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husnain555&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husnain555&layout=compact&bg_color=6A0DAD&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="Top Languages" />
   </a>
   <br /><br />
-  <!-- Activity Graph -->
+  <!-- Activity Graph with Custom Purple Theme -->
   <a href="https://github.com/Husnain555">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Husnain555&theme=react-dark" alt="GitHub Activity Graph" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=Husnain555&bg_color=6A0DAD&color=ffffff&line=ffffff&point=ffffff" alt="GitHub Activity Graph" />
   </a>
 </div>
 
